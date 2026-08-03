@@ -1,6 +1,6 @@
-# MiBebé Diario — Legal
+# MiBebé — Legal
 
-Páginas públicas de soporte, privacidad y términos para **MiBebé Diario**.
+Páginas públicas de soporte, privacidad y términos para **MiBebé**.
 
 - Soporte: https://sergiosdiaz.github.io/mibebe-privacy/
 - Privacidad: https://sergiosdiaz.github.io/mibebe-privacy/privacy.html

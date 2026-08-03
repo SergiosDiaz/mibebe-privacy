@@ -8,7 +8,7 @@
 
 ### 1. Información general
 
-Esta Política de Privacidad describe cómo **MiBebé Diario** ("la App", "nosotros") recopila, usa y protege la información de los usuarios. Al usar la App, aceptas las prácticas descritas en este documento.
+Esta Política de Privacidad describe cómo **MiBebé** ("la App", "nosotros") recopila, usa y protege la información de los usuarios. Al usar la App, aceptas las prácticas descritas en este documento.
 
 ### 2. Información que recopilamos
 
@@ -105,7 +105,7 @@ Para cualquier pregunta sobre esta Política de Privacidad: **sergiodz.r@gmail.c
 
 ### 1. Overview
 
-This Privacy Policy describes how **MiBebé Diario** ("the App", "we") collects, uses and protects user information. By using the App, you accept the practices described in this document.
+This Privacy Policy describes how **MiBebé** ("the App", "we") collects, uses and protects user information. By using the App, you accept the practices described in this document.
 
 ### 2. Information we collect
 

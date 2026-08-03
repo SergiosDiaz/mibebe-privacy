@@ -1,4 +1,4 @@
-# MiBebé Diario
+# MiBebé
 
 **Soporte / Support**
 
@@ -17,7 +17,7 @@ Te respondemos en menos de 48h.
 ### Preguntas frecuentes
 
 **¿Cómo cancelo mi suscripción Premium?**  
-- **iPhone:** Ajustes → tu nombre → Suscripciones → MiBebé Diario → Cancelar  
+- **iPhone:** Ajustes → tu nombre → Suscripciones → MiBebé → Cancelar  
 - **Android:** Google Play → Pagos y suscripciones → Suscripciones → Cancelar
 
 **He pagado pero no veo Premium**  
@@ -49,7 +49,7 @@ We reply within 48 hours.
 ### FAQ
 
 **How do I cancel my Premium subscription?**  
-- **iPhone:** Settings → your name → Subscriptions → MiBebé Diario → Cancel  
+- **iPhone:** Settings → your name → Subscriptions → MiBebé → Cancel  
 - **Android:** Google Play → Payments & subscriptions → Subscriptions → Cancel
 
 **I paid but I don't see Premium**  

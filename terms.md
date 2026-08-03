@@ -8,11 +8,11 @@
 
 ### 1. Aceptación
 
-Al descargar, registrarte o usar **MiBebé Diario** ("la App") aceptas estos Términos de Uso. Si no estás de acuerdo, no uses la App.
+Al descargar, registrarte o usar **MiBebé** ("la App") aceptas estos Términos de Uso. Si no estás de acuerdo, no uses la App.
 
 ### 2. Descripción del servicio
 
-MiBebé Diario es una aplicación para que padres y tutores registren y consulten información sobre su bebé (tomas, sueño, pañales, peso, altura y estadísticas). Parte de las funciones puede requerir una suscripción Premium.
+MiBebé es una aplicación para que padres y tutores registren y consulten información sobre su bebé (tomas, sueño, pañales, peso, altura y estadísticas). Parte de las funciones puede requerir una suscripción Premium.
 
 ### 3. Cuenta de usuario
 
@@ -52,7 +52,7 @@ Si generas un código QR para compartir el perfil del bebé, autorizas a esa per
 
 ### 8. Aviso importante (no es consejo médico)
 
-MiBebé Diario es una herramienta de **registro y seguimiento**. **No sustituye** el consejo, diagnóstico ni tratamiento de un pediatra u otro profesional sanitario. Ante cualquier duda sobre la salud de tu bebé, consulta a un profesional.
+MiBebé es una herramienta de **registro y seguimiento**. **No sustituye** el consejo, diagnóstico ni tratamiento de un pediatra u otro profesional sanitario. Ante cualquier duda sobre la salud de tu bebé, consulta a un profesional.
 
 ### 9. Limitación de responsabilidad
 
@@ -72,11 +72,11 @@ Podemos actualizar estos términos. La fecha de "última actualización" indica 
 
 ### 1. Acceptance
 
-By downloading, signing up for or using **MiBebé Diario** ("the App") you accept these Terms of Use. If you do not agree, do not use the App.
+By downloading, signing up for or using **MiBebé** ("the App") you accept these Terms of Use. If you do not agree, do not use the App.
 
 ### 2. Service description
 
-MiBebé Diario is an app for parents and guardians to log and review baby information (feedings, sleep, diapers, weight, height and statistics). Some features may require a Premium subscription.
+MiBebé is an app for parents and guardians to log and review baby information (feedings, sleep, diapers, weight, height and statistics). Some features may require a Premium subscription.
 
 ### 3. User account
 
@@ -116,7 +116,7 @@ If you generate a QR code to share the baby's profile, you authorize that person
 
 ### 8. Important notice (not medical advice)
 
-MiBebé Diario is a **logging and tracking** tool. It **does not replace** advice, diagnosis or treatment from a pediatrician or other healthcare professional. If you have any concerns about your baby's health, consult a professional.
+MiBebé is a **logging and tracking** tool. It **does not replace** advice, diagnosis or treatment from a pediatrician or other healthcare professional. If you have any concerns about your baby's health, consult a professional.
 
 ### 9. Limitation of liability
 
